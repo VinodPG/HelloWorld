@@ -3,3 +3,4 @@ phases:
   install:
     commands:
       - aws configure list
+      - aws help
